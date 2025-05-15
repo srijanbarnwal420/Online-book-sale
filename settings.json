@@ -1,9 +1,0 @@
-{
-    "files.exclude": {
-        "": true,
-        "**/.git": false
-    },
-    "files.watcherExclude": {
-        "": true
-    }
-}
